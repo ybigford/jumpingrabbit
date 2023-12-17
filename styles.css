@@ -103,9 +103,15 @@ a:hover {
         margin: 240px auto 10px auto;
     }
 
-    ul {
-        width: 96%;
+    li {
+        font-size: 10px;
     }
+
+
+    h1 {
+        font-size: 1em;
+    }
+    
 
 }
 
@@ -121,8 +127,12 @@ a:hover {
     }
 
 
-    li {
-        max-width: auto; 
+   li {
+        font-size: 10px;
+    }
+
+    h1 {
+        font-size: 1em;
     }
     
 }
