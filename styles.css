@@ -2,15 +2,6 @@ body {
     background-color: rgb(68, 210, 162);
 }
 
-/* #board{
-    background-color: lightcyan;
-    border-bottom: 15px solid rgb(193, 134, 84);
-}
-body{
-    text-align: center;
-} */
-
-
 
 #board{
     background-image: url(images/autumn_wood.png);
